@@ -15,37 +15,37 @@ current flows from VCC - LED - driver - GND, turning the LED ON.
 
 To control the system, we need a built-in CCS drivers: ``74595.c``
 
-![Schematic](32LED/docs/schematic.png)
+![Schematic](docs/schematic.png)
 
 # Simulation
 ## led1.c
 <p align="center">
-  <img src="32LED/docs/led1.gif" width="600" />
+  <img src="docs/led1.gif" width="600" />
 </p>
 
 ## led2.c
 <p align="center">
-  <img src="32LED/docs/led2.gif" width="600" />
+  <img src="docs/led2.gif" width="600" />
 </p>
 
 ## led3.c
 <p align="center">
-  <img src="32LED/docs/led3.gif" width="600" />
+  <img src="docs/led3.gif" width="600" />
 </p>
 
 ## led4.c
 <p align="center">
-  <img src="32LED/docs/led4.gif" width="600" />
+  <img src="docs/led4.gif" width="600" />
 </p>
 
 ## led10.c
 <p align="center">
-  <img src="32LED/docs/led10.gif" width="600" />
+  <img src="docs/led10.gif" width="600" />
 </p>
 
 ## led11.c
 <p align="center">
-  <img src="32LED/docs/led11.gif" width="600" />
+  <img src="docs/led11.gif" width="600" />
 </p>
 
 ## led12.c
