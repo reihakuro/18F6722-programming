@@ -1,0 +1,11 @@
+*.lst
+*.cof
+*.sym
+*.STA
+*.esym
+*.xysm
+*.err
+*.csspjt
+*.tre
+
+**/Project Backups/
